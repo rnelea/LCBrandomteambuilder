@@ -7,5 +7,6 @@
 * learn how to get PHP up running on github.io lol
 * make options of including 0, 00, 000 rarities in the randomizer
 * include pictures
+* maybe at some point include EGOs in the randomizer?
 
 # (not affiliated with ProjectMoon)
