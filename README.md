@@ -1,7 +1,6 @@
 # Limbus Company Random Team Builder
 
 ever thought of challening yourself in a mirror dungeon or a bossfight in Limbus Company and wanted to randomize your team? well hopefully this tool fits the bill for you!
-lets go Brandom
 
 ## wip goals:
 * get the db up
