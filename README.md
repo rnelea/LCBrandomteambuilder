@@ -9,4 +9,7 @@
 * include pictures
 * maybe at some point include EGOs in the randomizer?
 
+# Credits
+* Lunartique07 for the Limbus Company organized assets google drive
+
 # (not affiliated with ProjectMoon)
